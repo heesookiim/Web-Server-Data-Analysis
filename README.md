@@ -1,9 +1,9 @@
 # BoilerExam-Data-Analysis
 
 ## 1. Suspicious requests from certain IP
-1. IP 52.169.249.118 has been requesting multiple wp-content or wp related php files.
+- IP 52.169.249.118 has been requesting multiple wp-content or wp related php files.
     - wp means WordPress, which is an open-source web content management system.
-2. However, according to _isitwp.com_, BoilerExams does not use WordPress
+- However, according to _isitwp.com_, BoilerExams does not use WordPress
 
 ### Observations on Requests
 - All top requests target files that are typically associated with WordPress (/wp-includes/, /wp-admin/, /wp-content/).
