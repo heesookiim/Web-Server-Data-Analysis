@@ -18,7 +18,7 @@ For more details, refer to `results/misc.ipynb`
 
 ---
 
-### More Ideas from my note
+### What to do in the future
     
 **1. Geolocation Analysis**
   - **Goal**: Determine the geographic origin of requests based on `client_ip`.
