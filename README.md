@@ -6,7 +6,7 @@ The IP address `52.169.249.118` was observed repeatedly attempting to access `wp
 For further details, refer to `results/malicious_ip.ipynb`.
 
 #### 2. **Unusual User Agent: `axios/1.6.7`**  
-Unlike typical user agent values such as Mac or Windows identifiers, `axios/1.6.7` exhibited unusual behavior:  
+Unlike typical user agent values such as Mac or Windows identifiers, there was one user agent value called `axios/1.6.7` that exhibited unusual behavior:  
   - Consistent 5-second interval requests targeting the stats page.  
 
 For additional insights, review `results/weird_user_agent.ipynb`.
