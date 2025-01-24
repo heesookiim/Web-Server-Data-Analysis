@@ -12,7 +12,7 @@ The repository is structured as follows:
 
 ### 1. Suspicious Requests from a Specific IP
 
-We observed multiple requests from the IP address `52.169.249.118` attempting to access sensitive WordPress-related PHP files. This section explores these requests in depth to understand their nature and potential threat.
+I observed multiple requests from the IP address `52.169.249.118` attempting to access sensitive WordPress-related PHP files. This section explores these requests in depth to understand their nature and potential threat.
 
 **Notebook**: [Malicious IP Analysis](results/malicious_ip.ipynb)
 
@@ -35,10 +35,6 @@ To run the Jupyter notebooks:
 1. Clone this repository to your local machine.
 2. Ensure you have Jupyter installed, or use [Google Colab](https://colab.research.google.com/) to open the notebooks.
 3. Navigate to the `results/` directory and open the notebook you want to examine.
-
-## Contributing
-
-Contributions to this analysis are welcome. If you have suggestions or data that could enhance this project, please feel free to fork the repository and submit a pull request.
 
 ## License
 
