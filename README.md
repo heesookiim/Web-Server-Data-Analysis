@@ -1,6 +1,6 @@
 # Web Server Data Analysis
 
-This repository showcases an in-depth analysis of **BoilerExam**, a study platform built to help Purdue University students excel in their exams.
+This repository showcases an in-depth analysis of [**BoilerExam**](https://www.boilerexams.com), a study platform built to help Purdue University students excel in their exams.
 
 BoilerExam supports _19 courses_, offers a database of _3,149 questions_, has logged _6,165,679 answers_, and facilitated _272,172 hours_ of study.
 
