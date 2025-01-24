@@ -1,4 +1,4 @@
-# BoilerExam Data Analysis
+# Web Server Data Analysis
 
 This repository showcases an in-depth analysis of **BoilerExam**, a study platform built to help Purdue University students excel in their exams.
 
