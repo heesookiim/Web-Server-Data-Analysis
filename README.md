@@ -6,6 +6,11 @@ BoilerExam supports _19 courses_, offers a database of _3,149 questions_, has lo
 
 The analysis aims to uncover suspicious activities, such as unusual requests and user behaviors, that may signal security threats or misuse of the system.
 
+## Skills Used
+- **SQL**: For querying and filtering large datasets.
+- **Pandas**: For data manipulation, cleaning, and exploratory analysis.
+- **Polars**: For fast, efficient handling of large-scale datasets.
+
 ## Repository Structure
 
 - **`results/`**: Contains Jupyter notebooks with detailed findings and analyses.
